@@ -7,7 +7,7 @@ Our meal suggestion capability will be further enhanced by an external artificia
 ## Rationale 
 The use of an external API offers the ability to scale, make the application production ready, and offers an easy way to integrate it into our backend. This drastically cuts down on our development time and saves us from the overhead of managing infrastructure for the training, tuning, or scaling of AI models. For a startup-stage product, this allows us to concentrate on delivering a working user experience while leveraging the power of AI.
 
-## Rejected Alternatives:
+Rejected Alternatives:
 
 - In-House AI model creation: This approach was ruled out due to its expense of high computational resources, its complexity, and the need for an expanded team with advanced skill sets. Though bringing better controls and potential cost savings in the long run, it is not viable for MVP or first development.
 
