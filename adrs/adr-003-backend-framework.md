@@ -17,12 +17,12 @@ Rejected Alternatives:
 Accepted
 
 ## Consequences
-- FastAPI provides better performance and asynchronous capabilities for handling concurrent requests. 
+- FastAPI provides better performance and asynchronous capabilities for handling concurrent requests
 
-- Built-in data validation and API documentation improve the developer experience and reduce setup time.
+- Built-in data validation and API documentation improve the developer experience and reduce setup time
 
-- Team members will need to become comfortable with FastAPI's asynchronous syntax and type hints. 
+- Team members will need to become comfortable with FastAPI's asynchronous syntax and type hints 
 
-- Some external libraries may still be built with Flask in mind, requiring minor workarounds.
+- Some external libraries may still be built with Flask in mind, requiring minor workarounds
 
-- This helps us build a more scalable backend that can support increased traffic over time.
+- This helps us build a more scalable backend that can support increased traffic over time
