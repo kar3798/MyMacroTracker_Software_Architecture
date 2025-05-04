@@ -1,4 +1,4 @@
-# ADR 4: Data Storage - Flask Vs. FastAPI
+# ADR 4: Data Storage - PostgreSQL Vs. MongoDB
 MyMacroTracker needs to store a variety of user data, including profiles, macro goals, meal logs, ingredients, and integration records from fitness platforms. The data is mostly structured and relational, for example, users are linked to their meals, and meals contain multiple ingredients. We need to decide whether to go with a relational database like PostgreSQL or a document-based NoSQL option like MongoDB. This decision will affect how we model our data, query performance, and how easily we can scale the system later on.
 
 ## Decision 
