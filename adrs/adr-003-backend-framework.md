@@ -11,7 +11,7 @@ Rejected Alternatives:
 
 - Flask:  Straightforward and established, but it lacks built-in asynchronous capabilities and requires more setup for tasks such as data validation and API documentation.
 
-- Djnano: Considered too weighty for our use case, as it has features (like templating and assumptions about ORM) that are not intrinsic to our service-oriented architecture.
+- Djnano: Considered too weighty for our use case, as it has features (like templating and assumptions about Object–Relational mapping) that are not intrinsic to our service-oriented architecture.
 
 ## Status
 Accepted
